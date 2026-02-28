@@ -1,10 +1,9 @@
 public class Conta {
-    // 1. ATRIBUTOS (Onde os dados moram na memória RAM)
+
     private int numero;
     private double saldo;
 
-    // 2. CONSTRUTOR PADRÃO (Vazio)
-    // Permite criar a conta "zerada" para preencher depois
+    
     public Conta() {
     }
 
