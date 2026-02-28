@@ -18,10 +18,16 @@ public class Conta {
     }
 
     public void setNumero(int numero) {
-        this.this.numero = numero;
+        this.numero = numero;
     }
 
     public double getSaldo() {
         return saldo;
     }
+
+
+
+
 }
+
+    
